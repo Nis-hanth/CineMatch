@@ -1,6 +1,6 @@
 # 🎬 CineMatch — Movie Recommendation System
 
-![CineMatch Preview](assets/cinematch-preview.png)
+![CineMatch Preview](assets/cinematch-preview)
 
 **Discover your next favorite movie with CineMatch!**
 
