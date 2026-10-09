@@ -2,7 +2,7 @@
 
 ![CineMatch Preview](assets/cinematch-preview.png.png)
 
-**Discover your next favorite movie with CineMatch!**
+**Discover your next favorite movie with CineMatch!*
 
 CineMatch is a movie recommendation application built using Python and Streamlit. It helps users discover movies similar to their interests using a content-based filtering approach and movie metadata.
 
